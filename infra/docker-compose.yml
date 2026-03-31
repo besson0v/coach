@@ -1,0 +1,10 @@
+services:
+  coach-app:
+    image: node:22-alpine
+    working_dir: /app
+    command: sh -c "node src/index.js"
+    ports:
+      - "8787:8787"
+    volumes:
+      - ../app:/app
+    restart: unless-stopped

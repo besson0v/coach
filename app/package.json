@@ -1,0 +1,11 @@
+{
+  "name": "coach",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Coach — Telegram bot + mini app for health and training tracking",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  }
+}

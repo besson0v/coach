@@ -1,0 +1,13 @@
+{
+  "status": "bootstrap",
+  "app": "Coach",
+  "version": 1,
+  "entities": {
+    "workouts": [],
+    "symptoms": [],
+    "labs": [],
+    "visits": [],
+    "documents": [],
+    "protocols": []
+  }
+}

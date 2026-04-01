@@ -1,4 +1,6 @@
 node_modules/
 .env
 .env.local
+app.log
 *.log
+data/bot-offset.json

@@ -30,7 +30,7 @@
   - откатиться к первому commit проекта или восстановить snapshot из `backups/`.
 
 ## 2026-04-01 — bot bootstrap
-- commit: `pending`
+- commit: `a4c402a`
 - Что сделано:
   - добавлен минимальный Telegram bot layer (`app/src/bot.js`);
   - добавлены `/start`, `/app`, `/help`;
